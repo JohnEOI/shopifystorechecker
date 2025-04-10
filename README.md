@@ -1,0 +1,1 @@
+# shopifystorechecker
